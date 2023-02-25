@@ -1,1 +1,1 @@
-Educational project Ecole42
+Ecole42 educational project
